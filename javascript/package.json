@@ -1,6 +1,6 @@
 {
-  "name": "typecms-sdk-javascript",
-  "version": "1.0.0",
+  "name": "@type-sdk/javascript",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {

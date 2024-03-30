@@ -1,6 +1,6 @@
 {
-  "name": "type-sdk-react",
-  "version": "1.0.0",
+  "name": "@type-sdk/react",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
